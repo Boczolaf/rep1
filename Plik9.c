@@ -1,5 +1,5 @@
 // Sortowanie przez wstawianie z list¹ jednokierunkow¹
-// Data: 21.08.2013
+// Data: 22.08.2013
 // (C)2012 mgr Jerzy Wa³aszek
 //---------------------------------------------
 
