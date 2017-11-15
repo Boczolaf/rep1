@@ -1,5 +1,5 @@
 // Zliczanie elementów listy
-// Data: 19.02.2013
+// Data: 20.02.2013
 // (C)2012 mgr Jerzy Wa³aszek
 //---------------------------
 
