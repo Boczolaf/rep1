@@ -1,6 +1,6 @@
 // Samoorganizuj¹ce siê listy
 // Przesuwanie na pocz¹tek listy
-// Data: 04.08.2013
+// Data: 05.08.2013
 // (C)2012 mgr Jerzy Wa³aszek
 //------------------------------
 
