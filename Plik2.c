@@ -1,5 +1,5 @@
 // Obiekt listy dwukierunkowej
-// Data: 14.02.2013
+// Data: 15.02.2013
 // (C)2012 mgr Jerzy Wa³aszek
 //----------------------------
 
