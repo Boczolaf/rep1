@@ -1,5 +1,5 @@
 // Liniowe przeszukiwanie listy
-// Data: 12.02.2012
+// Data: 12.02.2013
 // (C)2012 mgr Jerzy Wa³aszek
 //-------------------------------------------
 
