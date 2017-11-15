@@ -1,5 +1,5 @@
 // Program testowy dla list jednokierunkowych
-// Data: 11.02.2013
+// Data: 12.02.2013
 // (C)2012 mgr Jerzy Wa³aszek
 //-------------------------------------------
 
