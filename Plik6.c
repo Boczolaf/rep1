@@ -1,5 +1,5 @@
 // Scalanie dwóch posortowanych list jednokierunkowych
-// Data: 25.02.2013
+// Data: 26.02.2013
 // (C)2012 mgr Jerzy Wa³aszek
 //----------------------------------------------------
 
